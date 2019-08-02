@@ -1,0 +1,34 @@
+selector { property: value;}
+
+classes = . (all target)
+ID = # ( one target)
+
+
+
+positioning 10px (top) 20px (right) 20px (bottom) 20px (left)
+
+
+
+color - background-color : rgba ()
+
+font tools site : 
+
+https://fonts.google.com/
+
+recommend font size
+
+em - copy font size of the parent
+rem - copy font size of the ancestor
+
+body{
+
+
+
+}
+
+font-size: 2rem; (
+
+#css
+css-tricks.com
+#image
+https://unsplash.com/

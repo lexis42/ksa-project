@@ -1,0 +1,59 @@
+body{
+font-size: 16px;
+margin: 0px;
+
+}
+
+nav	{
+display: flex;
+justify-content: space-between;
+background-color: #AA9739;
+margin: 0px;
+padding: 0px;
+align-items: flex-end;
+
+}
+
+
+#social-media{
+	color: green;
+	font-size: 1rem;
+	font-family: 'Saira Stencil One', cursive;
+
+
+}
+
+
+
+#main-section ul {
+	color: white;
+	font-family: 'Saira Stencil One', cursive;
+	display: flex;
+}
+
+#main-section ul li{
+	list-style-type: none;
+	padding-left: 25px;
+}
+
+
+#social-media ul{
+	display: flex;
+	list-style-type: none;
+}
+
+#social-media ul li{
+	padding-left: 25px;
+	list-style-type: none;
+	padding-right: 25px;
+}
+
+#main-links {
+	background-image: url(bg.jpg);
+	padding-top: 300px;
+	padding-bottom: 300px;
+	background-size: cover;
+	backgroupd-position: center center;
+ 	color: white;
+
+}

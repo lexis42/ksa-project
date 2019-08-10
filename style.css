@@ -4,7 +4,14 @@ margin: 0px;
 
 }
 
+/*test*/
+
+@media screen and (max-width: 700px) {
+
+}
+
 nav	{
+
 display: flex;
 justify-content: space-between;
 background-color: #AA9739;
@@ -15,6 +22,8 @@ align-items: flex-end;
 }
 
 
+
+
 #social-media{
 	color: green;
 	font-size: 1rem;
@@ -22,7 +31,6 @@ align-items: flex-end;
 
 
 }
-
 
 
 #main-section ul {
@@ -55,5 +63,117 @@ align-items: flex-end;
 	background-size: cover;
 	backgroupd-position: center center;
  	color: white;
+
+}
+
+#title {
+	margin-right: 80px;
+	margin-bottom: 80px;
+	text-align: center;
+
+
+}
+
+#projects {
+	margin-right: 80px;
+	margin-bottom: 80px;
+	text-align: center;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin: 25px;
+	padding: 25px	;
+	
+}
+
+.website img{
+	
+transition: transform 0.6s;
+
+}
+
+.website img:hover{
+	transform: rotate(720deg);
+}
+
+
+
+.skill1 img {
+	border-radius : 50%;
+}
+
+#title2 {
+	margin-right: 80px;
+	margin-bottom: 80px;
+	text-align: center;
+}	
+
+#Testimonials {
+	margin-right: 80px;
+	margin-bottom: 80px;
+	text-align: center;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	margin: 25px;
+	padding: 25px	;
+}
+
+
+.images img {
+transition: transform 0.6s;
+
+}
+
+.images img:hover{
+ box-shadow: 10px 10px 8px 10px;
+
+}
+
+.nav img {
+	transition: transform 0.6s;
+}
+
+.nav img:hover{
+
+}
+
+#title3 {
+	margin-right: 80px;
+	margin-bottom: 80px;
+	text-align: center;
+}
+
+#skills{
+	display: flex;
+	text-align: center;
+	justify-content: space-around;
+	margin: 10px 10px 10px 10px;
+	width: 50%
+
+	
+}
+
+.skill1 p{
+border-radius: 2px;
+border-color: black;
+border-style: solid;
+margin: 10px 10px 10px 10px;
+
+
+
+
+}
+
+#title4 {
+	margin-right: 80px;
+	margin-bottom: 80px;
+	text-align: center;
+}	
+
+#workwithme {
+	margin-right: 80px;
+	margin-bottom: 80px;
+	text-align: center;
 
 }
